@@ -2,6 +2,7 @@
     "uuid": "a4e66a45-f30d-4a13-9f0f-59343c6b23a9",
     "shortName": "CGM",
     "longName": "CGM",
+    "capabilities": [ "configurable" ],
     "companyName": "HackingType1-CostikCare,LLC",
     "versionCode": 2,
     "versionLabel": "2.0.0",
