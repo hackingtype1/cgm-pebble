@@ -6,7 +6,7 @@ function fetchCgmData(lastReadTime, lastBG) {
     var req = new XMLHttpRequest();
     
     //Make your api call here
-    req.open('GET', "https://000.000.000.000/pebbledata, true);
+    req.open('GET', "https://000.000.000.000/pebbledata", true);
 
     req.onload = function(e) {
         console.log(req.readyState);
